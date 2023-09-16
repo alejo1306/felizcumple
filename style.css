@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
+    background: url(./fotos/3jni.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+
+img {
+    width: 40vw;
+    border: 5px solid;
+    border-radius: 30px;
+    margin-left: 60%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 10vw;
+
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-image: url(./fotos/cumple.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: auto;
+}
+
+
+
+.Pie {
+    padding-bottom: 30%;
+    padding-top: 20%;
+    text-align: center;
+
+
+}
+
+.video {
+    width: 75vw;
+    height: 60vw;
+    border: 5px solid;
+    border-radius: 30px;
+}
+
+.fotoIz {
+    margin-left: 0;
+
+}
+
+.E-1 {
+    margin: 10%;
+    margin-bottom: 35%;
+
+}
+
+#parrafo1 {
+    display: none;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 2%;
+    background: rgb(255, 120, 225);
+    background: radial-gradient(circle, rgba(255, 120, 225, 1) 0%, rgba(173, 118, 221, 1) 100%);
+    box-shadow: 0px 4px 8px rgb(0, 0, 0);
+}
+
+#parrafo2 {
+    display: none;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 2%;
+    background: rgb(255, 120, 225);
+    background: radial-gradient(circle, rgba(255, 120, 225, 1) 0%, rgba(173, 118, 221, 1) 100%);
+    box-shadow: 0px 4px 8px rgb(0, 0, 0);
+
+}
+
+#parrafo3 {
+    display: none;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 2%;
+    background: rgb(255, 120, 225);
+    background: radial-gradient(circle, rgba(255, 120, 225, 1) 0%, rgba(173, 118, 221, 1) 100%);
+    box-shadow: 0px 4px 8px rgb(0, 0, 0);
+}
+
+#parrafo4 {
+    display: none;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 2%;
+    background: rgb(255, 120, 225);
+    background: radial-gradient(circle, rgba(255, 120, 225, 1) 0%, rgba(173, 118, 221, 1) 100%);
+    box-shadow: 0px 4px 8px rgb(0, 0, 0);
+}
+
+#parrafo5 {
+    display: none;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 2%;
+    background: rgb(255, 120, 225);
+    background: radial-gradient(circle, rgba(255, 120, 225, 1) 0%, rgba(173, 118, 221, 1) 100%);
+    box-shadow: 0px 4px 8px rgb(0, 0, 0);
+}
+
+.boton {
+    margin: 2%;
+    padding: 7%;
+}
